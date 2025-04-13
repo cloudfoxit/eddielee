@@ -1,3 +1,11 @@
 title: Eddie Lee
-description: Systems-savvy strategist and builder of Cloudfox
-theme: jekyll-theme-slate
+description: Systems strategist & co-founder, Cloudfox Group Ltd
+url: "https://cloudfoxit.github.io"
+baseurl: "/eddielee"
+author:
+  name: Eddie Lee
+  email: eddie@cloudfox.it
+paginate: 5
+paginate_path: "/page:num/"
+permalink: /:title/
+theme: null
