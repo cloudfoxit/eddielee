@@ -1,16 +1,10 @@
 ---
+layout: page
 title: Contact
-layout: default
 ---
 
-# Contact Me
+Get in touch:
 
-Want to connect?
-
-- **Email:** eddie [at] cloudfox.it  
-- **LinkedIn:** [linkedin.com/in/eddlee](https://linkedin.com/in/eddlee)  
-- **Company Site:** [cloudfox.it](https://cloudfox.it)
-
-I'm always happy to talk systems, ops, and scalable growth.
-
-[Back to Home](index.md)
+- Email: eddie@cloudfox.it  
+- LinkedIn: [linkedin.com/in/eddlee](https://linkedin.com/in/eddlee)  
+- Website: [cloudfox.it](https://cloudfox.it)
