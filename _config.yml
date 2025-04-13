@@ -1,11 +1,7 @@
 title: Eddie Lee
 description: Systems strategist & co-founder, Cloudfox Group Ltd
 url: "https://cloudfoxit.github.io"
-baseurl: "/eddielee"
-author:
-  name: Eddie Lee
-  email: eddie@cloudfox.it
-paginate: 5
-paginate_path: "/page:num/"
-permalink: /:title/
-theme: null
+baseurl: "/eddielee"  # Ensure this matches your repository name
+remote_theme: say8425/adam-blog-2
+plugins:
+  - jekyll-remote-theme
