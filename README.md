@@ -23,7 +23,7 @@ I blend financial precision with technical fluency to simplify complex systems f
 ## Current vs Ideal Process Overview
 
 The diagram below shows the **current processes** as they operate today and the **ideal process** we want to move toward.  
-- *Current pre-arrival*: UoB sends daily snapshot files (“check-in reports”), which should only be used for validation of arrivals, not for creating confirmed bookings until the booking start date.  
+- *Current pre-arrival*: UoB sends daily snapshot files \n(“check-in reports”), which should only be used for validation of arrivals, not for creating confirmed bookings until the booking start date.  
 - *Current in-contract*: UoB sends ad-hoc change files by email (room swaps, late starts/ends), which are manually applied.  
 - *Ideal*: UoB sends a complete daily file containing all allocations (confirmed, tentative, cancelled, ended), allowing automation and reconciliation.
 
